@@ -18,7 +18,7 @@
             'Debug': {
                 'msvs_settings': {
                     'VCCLCompilerTool': {
-                        'RuntimeLibrary': '0',
+                        'RuntimeLibrary': '2',
                         'UndefinePreprocessorDefinitions': ['DEBUG', '_DEBUG'],
                         'PreprocessorDefinitions': ['NDEBUG']
                     },
