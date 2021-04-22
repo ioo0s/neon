@@ -8,7 +8,7 @@
                 'msvs_settings': {
                     'VCCLCompilerTool': {
                         'WholeProgramOptimization': 'false',
-                        'RuntimeLibrary': 2
+                        'RuntimeLibrary': 3
                     },
                     'VCLinkerTool': {
                         'LinkTimeCodeGeneration': 0
@@ -18,7 +18,7 @@
             'Debug': {
                 'msvs_settings': {
                     'VCCLCompilerTool': {
-                        'RuntimeLibrary': '2',
+                        'RuntimeLibrary': '0',
                         'UndefinePreprocessorDefinitions': ['DEBUG', '_DEBUG'],
                         'PreprocessorDefinitions': ['NDEBUG']
                     }
