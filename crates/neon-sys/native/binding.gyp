@@ -7,7 +7,8 @@
             'Release': {
                 'msvs_settings': {
                     'VCCLCompilerTool': {
-                        'WholeProgramOptimization': 'false'
+                        'WholeProgramOptimization': 'false',
+                        'RuntimeLibrary': 2
                     },
                     'VCLinkerTool': {
                         'LinkTimeCodeGeneration': 0
